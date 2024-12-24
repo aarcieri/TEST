@@ -1,0 +1,2 @@
+Secondo file creato per verificare se il tag è committato assieme al commit
+oppure se è necessario committarlo separatamente con "git push --tags"
